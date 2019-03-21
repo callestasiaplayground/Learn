@@ -1,1 +1,1 @@
-print('Edit iki mas')
+print('sampun diedit')
